@@ -1,4 +1,4 @@
-### Hi there, I'm Gustavo 👋 - Backend Developer
+### Hi there, I'm Gustavo 👋  Backend Developer
 
 <!--
 **sgustavoquiroga/sgustavoquiroga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
