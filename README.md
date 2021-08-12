@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 📊 Stats
-[![sgustavoquiroga github stats](https://github-readme-stats.vercel.app/api?username=sgustavoquiroga&count_private=true&theme=vue-dark&show_icons=true&hide=stars)](#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgustavoquiroga&count_private=true&theme=vue-dark&show_icons=true&layout=compact)](#)
+[![sgustavoquiroga github stats](https://github-readme-stats.vercel.app/api?username=sgustavoquiroga&count_private=true&theme=algolia&show_icons=true&hide=stars)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sgustavoquiroga&count_private=true&theme=algolia&show_icons=true&layout=compact)](#)
 
 
 ## ✨ Visitors
